@@ -1,2 +1,18 @@
-# aweuchat
+# Aweuchat
 Node.js &amp; Socket.io Project
+
+# How To Install
+- git clone https://github.com/randyviandaputra/aweuchat.git
+- cd aweuchat
+- npm install
+- node server.js
+
+# Have a good study :-)
+
+# Interested some projects with me
+Contact Me :
+- Email : hello@randyviandaputra.com
+- Skype ID : randy.vianda.putra
+
+
+
