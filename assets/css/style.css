@@ -1,0 +1,27 @@
+
+body {
+    margin: 0;
+    background-color: #eee
+}
+
+.header {
+    background-color: #189DF0;
+}
+
+.chats {
+    background-color: #eee;
+    bottom: 0px;
+    height: 300px;
+    padding: 40px;
+    margin-top :0;
+    margin-bottom :0;
+    overflow: scroll;
+}
+
+#chat:nth-child(even) {
+    background-color: #ADA6AD;
+}
+
+.chat-bottom {
+    background-color: #eee;
+}

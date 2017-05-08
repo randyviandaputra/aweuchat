@@ -1,0 +1,45 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Aweutist Chatting</title>
+        <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="/assets/css/style.css">
+    </head>
+<body>
+    <div class="jumbotron header">
+        <div class="container">
+            <h1>Aweutist Chatting!</h1>
+            <p>Chating using Node.js and Socket.io ...</p>
+            <p>
+                <a class="btn btn-danger btn-lg">Learn more</a>
+            </p>
+        </div>
+    </div>
+    
+    <div class="row">
+        <div class="col-md-8 chats">
+            <div id="list-message"></div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12 chat-bottom">
+            <form action="">
+                <div class="col-md-8">
+                    <div class="form-group">
+                        <input type="text" placeholder="Type a messange ..." id="message" class="form-control">
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <button id="send" class="btn btn-primary"><i class="fa fa-reply"></i>Send</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/jquery/3.2.1/jquery.min.js" ></script>
+    <script src="/socket.io/socket.io.js" ></script>
+    <script src="components/chat.js" ></script>
+    <script src="/assets/js/bootstrap.min.js" ></script>
+</body>
+</html>

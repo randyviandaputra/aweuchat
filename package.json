@@ -1,0 +1,19 @@
+{
+  "name": "aweutistchat",
+  "version": "1.0.0",
+  "description": "Aweutist Chat Using Node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.10.2",
+    "socket.io": "^1.4.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/randyviandaputra/aweuchat"
+  },
+  "author": "Randy Vianda Putra",
+  "license": "ISC"
+}
