@@ -25,3 +25,7 @@ body {
 .chat-bottom {
     background-color: #eee;
 }
+
+.hidden {
+    display: none;
+}
