@@ -14,8 +14,7 @@ May be useful
 
 ## Interested some projects with me
 Contact Me :
-- Email : hello@randyviandaputra.com
-- Skype ID : randy.vianda.putra
+- Email : modulloe@gmail.com
 
 ## License
 [MIT](http://opensource.org/licenses/MIT)
